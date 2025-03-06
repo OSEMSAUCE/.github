@@ -45,7 +45,7 @@ We’re building the first centralized open dataset to track the **who, what, wh
 - **When** the planting happened (specific dates or timeframes).  
 
 📋 **Example Dataset**  
-Here’s a [sample dataset]([#](https://docs.google.com/spreadsheets/d/15h0NmSwZEEB94mA0wPe23XIhSpH2Lr8Ed-D9YCquTag/edit?gid=0#gid=0)) to show you the structure we’re looking for (Google Sheets).  
+Here’s a [sample dataset](https://docs.google.com/spreadsheets/d/15h0NmSwZEEB94mA0wPe23XIhSpH2Lr8Ed-D9YCquTag/edit?gid=0#gid=0) to show you the structure we’re looking for (Google Sheets).  
 
 ---
 
