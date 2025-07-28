@@ -8,11 +8,11 @@
 
 OSEM is about practical, real-world transparent solutions in the environmental field. 
 
-Our primary task is making a huge open source repo of reforestation data. The bigest in the world by far.
+Our primary task is building the biggest open-source repo of reforestation data.
 
 OSEM is founded by former tree planting heavyweights so we're well-positioned to have a big impact here with your help.
 
-If we publish even 5% of reforestation data (who planted what trees, where, and when), it would tilt the whole industry towards transparency. This would have a MASSIVE effect on the quality and productivity of reforestation. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations, and the industry will improve immensely with the expectation that reforestation, and other nature based and carbon offsets, rise to the high standards of open source.
+Reforestation data means "who planted what trees, where, and when). The idea is to push the whole industry towards transparency through open competition and actual, verifiable productivity. This would have a MASSIVE effect on the quality and productivity of reforestation. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations, and the industry will improve immensely with the expectation that reforestation, and other nature-based and carbon offsets, rise to the high standards of open source.
 
 **Please join us; there is TONS of work to be done.**
 
