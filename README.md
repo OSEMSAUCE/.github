@@ -18,8 +18,8 @@ The resulting data from our work will be free to use for research, visualization
 
 ## Be OSEM😎️🌲!
 
-**YOU** or person / org that contributes, is OSEM. Please contribute much-needed reforestation data, or web dev work, and you'll be OSEM🤘🌲 forever we promise. 
-For large disclosures, you can promote your data science or web dev contributions as OSEM.  For real big disclosures, we use our sister org - [Ground Truth Forest News](https://groundtruth.app/) to write and promote your work as actual news stories 📢️
+**YOUR** contribution to open source is OSEM. Please contribute reforestation polygons and location disclosures for the world to study and learn from, that would be OSEM🤘🌲. 
+We're happy to parter and promote the good will of sharing location data. For real big disclosures, we use our sister org - [Ground Truth Forest News](https://groundtruth.app/) to write and promote your work as actual news stories 📢️
 
 
 ---
