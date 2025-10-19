@@ -3,23 +3,23 @@
 ![image](https://github.com/user-attachments/assets/033cc175-5f04-439b-9b92-264650bb012f)
 
 
-# OSEM🤘🏼🌲
+# OSEM🤘🌲
 ## Open Source Environmental Movement
 
-OSEM is about practical, real-world transparent solutions in the environmental field. 
+OSEM is creating the biggest repository of open-source reforestation data in the world. 
 
-Our primary task is building the biggest open-source repo of reforestation data.
+This project has grown out of the experience planting 10's of millions of seedlings in Canada and raw enthusiasm for reforestation data! 🤖️🌲️🌲️
 
-OSEM is founded by former tree planting heavyweights so we're well-positioned to have a big impact here with your help.
+We are just [building the web app](https://github.com/OSEMSAUCE/transplant) atm but the thesis is this... if we publish even 5% of reforestation data (who planted what trees, where, and when), would it tilt the whole industry towards transparency? The goal is efficiency, productivity, and the impetus to compete on transparency and specifications rather than meaningless emotive marketing campaigns. 
 
-Reforestation data means "who planted what trees, where, and when). The idea is to push the whole industry towards transparency through open competition and actual, verifiable productivity. This would have a MASSIVE effect on the quality and productivity of reforestation. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations, and the industry will improve immensely with the expectation that reforestation, and other nature-based and carbon offsets, rise to the high standards of open source.
+The resulting data from our work will be free to use for research, visualizations 📊️, and inquiries on real-world reforestation data. Our observation is market failure due to a lack of trust in reforestation and nature based solutions and that this can be addressed through transparency and data. Like a sport, a stock market, research, and commerse: open access to information improves markets, drives competition and innovation. We will do the same with reforestation, by introducing the high standards of open source. 
 
-**Please join us; there is TONS of work to be done.**
+**Join us, there is TONS of work to be done.**
 
-## Be OSEM🤘🏼🌲!
+## Be OSEM😎️🌲!
 
-**YOU** or person / org that contributes, is OSEM. Please contribute much-needed reforestation data, or web dev work, and you'll be OSEM🤘🌲 forever we promise. 
-For large disclosures, you can promote your data science or web dev contributions as OSEM.  For real big disclosures we use our sister org - [Ground Truth Forest News](https://groundtruth.app/) to write and promote your work as actual news stories 📢️
+**YOUR** contribution to open source is OSEM. Please contribute reforestation polygons and location disclosures for the world to study and learn from, that would be OSEM🤘🌲. 
+We're happy to parter and promote the good will of sharing location data. For real big disclosures, we use our sister org - [Ground Truth Forest News](https://groundtruth.app/) to write and promote your work as actual news stories 📢️
 
 
 ---
@@ -45,7 +45,7 @@ We’re building the first centralized open dataset to track the **who, what, wh
 - **When** the planting happened (specific dates or timeframes).  
 
 📋 **Example Dataset**  
-Here’s a [sample dataset](https://docs.google.com/spreadsheets/d/15h0NmSwZEEB94mA0wPe23XIhSpH2Lr8Ed-D9YCquTag/edit?gid=0#gid=0) to show you the structure we’re looking for (Google Sheets).  
+Here’s a [sample dataset](#) to show you the structure we’re looking for (Google Sheets).  
 
 ---
 
@@ -67,7 +67,7 @@ Love to code? We need developers to:
 - Help me with the [Transplant App](https://github.com/OSEMSAUCE/transplant) App
 - Automate data pipelines (ETL: Extract, Transform, Load).
 - Build tools to analyze or visualize the dataset.
-- Create applications for distributing and managing this data.
+- Create applications to distribute and manage this data.
 
 ---
 
